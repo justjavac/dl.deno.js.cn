@@ -1,7 +1,7 @@
 # dl.deno.js.cn
 
 这个网站包含了 Deno 的 release/canary 二进制安装包。Deno 主仓库 github.com/denoland/deno 的 main
-分支的每次提交都会构建一个 Canary 版。
+分支的每次提交都会构建一个 Canary 版本。
 
 你可以通过如下的 url 下载某个 Deno 版本：
 
